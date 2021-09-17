@@ -1,1 +1,1 @@
-# Primer ejercicio en Reat.js
+# Primer ejercicio en React.js
